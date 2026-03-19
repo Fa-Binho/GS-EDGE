@@ -6,7 +6,6 @@ https://wokwi.com/projects/448282317388981249
 
 ## 👥 Integrantes
 - **Fábio Alexandre Barbosa Filho – RM: 567419**  
-- **Igor Davi Avelar Rosa Cesário – RM: 568163**
 
 ---
 
